@@ -1,2 +1,1 @@
-My first readme
-Readme update from github.com
+My first readme is making waves
